@@ -1,12 +1,18 @@
 lockfileVersion: 5.3
 
 specifiers:
+  immer: ^10.0.4
   redux: ^5.0.1
 
 dependencies:
+  immer: 10.0.4
   redux: 5.0.1
 
 packages:
+
+  /immer/10.0.4:
+    resolution: {integrity: sha512-cuBuGK40P/sk5IzWa9QPUaAdvPHjkk1c+xYsd9oZw+YQQEV+10G0P5uMpGctZZKnyQ+ibRO08bD25nWLmYi2pw==}
+    dev: false
 
   /redux/5.0.1:
     resolution: {integrity: sha512-M9/ELqF6fy8FwmkpnF0S3YKOqMyoWJ4+CS5Efg2ct3oY9daQvd/Pc71FpGZsVsbl3Cpb+IIcjBDUnnyBdQbq4w==}
